@@ -1,3 +1,10 @@
-node_modules/
-npm-debug.log
-package-lock.json
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
+.elixir_ls/
